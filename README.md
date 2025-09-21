@@ -49,6 +49,7 @@ Cmd: java --version
 
 step 1: open elcipseIDE or IntelliJ
 Step 2: click on open project
+
 <img width="499" height="410" alt="image" src="https://github.com/user-attachments/assets/966be996-2f0d-4029-99e3-ef13ee6b191c" />
 
 
@@ -58,20 +59,27 @@ Step 2: click on open project
 
 
 Step 3: select the ccrm project folder and click on ok.
+
+
 <img width="538" height="551" alt="image" src="https://github.com/user-attachments/assets/2378bfc5-5887-4e5a-aac7-e81aedf62357" />
 
 
  
 
-Step 4: navigate to edu.ccrm > cli > MainMenu, then double click on it.
+Step 4: navigate to  ProjectCCRM/CCRM_Project_Java/out/production/CCRM_Project_complete/edu/ccrm/cli
+
+/Main.class, then double click on it.
 
 Step 5: right click anywhere on the code then choose run “mainmenu.main()”.
+
+
 <img width="635" height="491" alt="image" src="https://github.com/user-attachments/assets/63494c9e-b9b0-4b56-8fae-eb61275bdbc1" />
 
 
  
 
 result
+
 <img width="962" height="209" alt="image" src="https://github.com/user-attachments/assets/499ffa58-6cf0-4b25-9984-7ef761cd1afc" />
 
 
