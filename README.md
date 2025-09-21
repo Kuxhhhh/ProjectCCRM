@@ -97,10 +97,31 @@ result
 - 2017-2021+: Java 9-17 — modularity (JPMS), local-variable type inference (var), performance improvements.
 - 2021-2024+: Ongoing: records, pattern matching, performance and API enhancements.
 
+  
+
+
 ## Java ME vs Java SE vs Java EE (Jakarta EE)
 - **Java ME**: Micro Edition for embedded and constrained devices (IoT, phones historically).
 - **Java SE**: Standard Edition — desktop and client/server apps, core libraries, what this project uses.
 - **Java EE / Jakarta EE**: Enterprise Edition — servlets, JPA, EJBs, for large server-side enterprise applications.
+
+### Comparison Table
+
+| Feature | **Java ME** | **Java SE** | **Java EE / Jakarta EE** |
+| :--- | :--- | :--- | :--- |
+| **Full Name** | Micro Edition | Standard Edition | Enterprise Edition |
+| **Primary Use** | Embedded and constrained devices (IoT, phones historically) | Desktop and client/server applications | Large server-side enterprise applications |
+| **Core Components** | A subset of SE libraries for resource-constrained environments | Core libraries and APIs | Servlets, JPA, EJBs, etc. for enterprise-level services |
+
+
+### Comparison Table
+
+| Feature | **JVM** | **JRE** | **JDK** |
+| :--- | :--- | :--- | :--- |
+| **Full Name** | Java Virtual Machine | Java Runtime Environment | Java Development Kit |
+| **Purpose** | Runs compiled bytecode | Provides an environment to run Java applications | Provides tools to develop, compile, and run Java applications |
+| **Contains** | N/A | JVM + standard class libraries | JRE + compiler (`javac`) + development tools |
+
 
 ## JDK vs JRE vs JVM
 - **JVM**: Java Virtual Machine — runs compiled bytecode.
