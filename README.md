@@ -8,6 +8,7 @@ To start coding in Java, you first need to install the Java Development Kit (JDK
 Step 1: Visit the official Oracle website https://www.oracle.com/in/java/. Click on the "Download Java" icon as shown in the below image.
 
 Step 2: Now you can see the latest version is JDK 25 and there are options for Linux, macOS, and Windows. Click on the Windows option and then click the x64 Installer option to download the .exe file for 64-bit Windows OS.
+
 <img width="962" height="437" alt="image" src="https://github.com/user-attachments/assets/2c03afeb-870e-48a4-8988-0cf9c78fad95" />
 
 
@@ -16,17 +17,20 @@ Step 2: Now you can see the latest version is JDK 25 and there are options for L
 
 Step 3: Go to Downloads and double-click on that downloaded jdk-23_windows-x64_bin.exe file. So now Java Installation Wizard get open and then click Next button.
 
-Step 4: Now we will set the environment variables for Windows OS. Open the C drive, go to Program Files > Java > jdk-25 (or your installed version) > bin folder. Now, copy the path and we will use this path when configuring the environment variables.<img width="795" height="120" alt="image" src="https://github.com/user-attachments/assets/fa95cb1a-1d9f-41ca-9812-ffc91dd90042" />
+Step 4: Now we will set the environment variables for Windows OS. Open the C drive, go to Program Files > Java > jdk-25 (or your installed version) > bin folder. Now, copy the path and we will use this path when configuring the environment variables.
+<img width="795" height="120" alt="image" src="https://github.com/user-attachments/assets/fa95cb1a-1d9f-41ca-9812-ffc91dd90042" />
 
 
  
 
-Search for environment variable on your system, then click on the Environment Variables button.<img width="563" height="416" alt="image" src="https://github.com/user-attachments/assets/387c61d8-354b-44f7-9fff-8b9bff83da92" />
+Search for environment variable on your system, then click on the Environment Variables button.
+<img width="563" height="416" alt="image" src="https://github.com/user-attachments/assets/387c61d8-354b-44f7-9fff-8b9bff83da92" />
 
 
  
 
-In the system variable section, select the path variable and then click the option Edit.<img width="478" height="531" alt="image" src="https://github.com/user-attachments/assets/2ee0d1e7-a4e8-4cfe-aa9e-91640baf6704" />
+In the system variable section, select the path variable and then click the option Edit.
+<img width="478" height="531" alt="image" src="https://github.com/user-attachments/assets/2ee0d1e7-a4e8-4cfe-aa9e-91640baf6704" />
 
 
 
@@ -34,7 +38,8 @@ In the system variable section, select the path variable and then click the opti
 Paste the path that copied earlier, and click OK to save the changes.
 
 Step 5: Verify the Installation. Open command prompt and type the below command to verify the Java version that is installed in the system.
-Cmd: java --version<img width="739" height="316" alt="image" src="https://github.com/user-attachments/assets/2007cf84-22bf-43c0-8091-bc0e3a7b1854" />
+Cmd: java --version
+<img width="739" height="316" alt="image" src="https://github.com/user-attachments/assets/2007cf84-22bf-43c0-8091-bc0e3a7b1854" />
 
 
  
@@ -43,7 +48,8 @@ Cmd: java --version<img width="739" height="316" alt="image" src="https://github
 ## How to compile & run
 
 step 1: open elcipseIDE or IntelliJ
-Step 2: click on open project<img width="499" height="410" alt="image" src="https://github.com/user-attachments/assets/966be996-2f0d-4029-99e3-ef13ee6b191c" />
+Step 2: click on open project
+<img width="499" height="410" alt="image" src="https://github.com/user-attachments/assets/966be996-2f0d-4029-99e3-ef13ee6b191c" />
 
 
  
@@ -51,19 +57,22 @@ Step 2: click on open project<img width="499" height="410" alt="image" src="http
 
 
 
-Step 3: select the ccrm project folder and click on ok.<img width="538" height="551" alt="image" src="https://github.com/user-attachments/assets/2378bfc5-5887-4e5a-aac7-e81aedf62357" />
+Step 3: select the ccrm project folder and click on ok.
+<img width="538" height="551" alt="image" src="https://github.com/user-attachments/assets/2378bfc5-5887-4e5a-aac7-e81aedf62357" />
 
 
  
 
 Step 4: navigate to edu.ccrm > cli > MainMenu, then double click on it.
 
-Step 5: right click anywhere on the code then choose run “mainmenu.main()”.<img width="635" height="491" alt="image" src="https://github.com/user-attachments/assets/63494c9e-b9b0-4b56-8fae-eb61275bdbc1" />
+Step 5: right click anywhere on the code then choose run “mainmenu.main()”.
+<img width="635" height="491" alt="image" src="https://github.com/user-attachments/assets/63494c9e-b9b0-4b56-8fae-eb61275bdbc1" />
 
 
  
 
-result<img width="962" height="209" alt="image" src="https://github.com/user-attachments/assets/499ffa58-6cf0-4b25-9984-7ef761cd1afc" />
+result
+<img width="962" height="209" alt="image" src="https://github.com/user-attachments/assets/499ffa58-6cf0-4b25-9984-7ef761cd1afc" />
 
 
 
